@@ -1,0 +1,12 @@
+[package]
+name = "svm_classification"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+linfa = "0.7"
+linfa-svm = "0.7"
+ndarray = "0.15"
+rand = "0.8"
+rand_distr = "0.4"
+plotters = "0.3"
